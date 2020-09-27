@@ -1,6 +1,12 @@
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 r3---sn-ab5szn7l.googlevideo.com
+0.0.0.0 r4---sn-ab5szn7l.googlevideo.com
+0.0.0.0 r4.sn-ab5szn7l.googlevideo.com
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 googlevideo.com
