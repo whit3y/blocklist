@@ -1,0 +1,3 @@
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 r3---sn-ab5szn7l.googlevideo.com
+0.0.0.0 pagead46.l.doubleclick.net
